@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]({https://drive.google.com/file/d/1yHH32zdCp47csJo4qAE8rQDSwSBuilAf/view?usp=sharing})
+![screenshot](https://ibb.co/d7TPBVW)
 
 
 ### Built With
