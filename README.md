@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://drive.google.com/file/d/1yHH32zdCp47csJo4qAE8rQDSwSBuilAf/view?usp=sharing)
+![screenshot]({https://drive.google.com/file/d/1yHH32zdCp47csJo4qAE8rQDSwSBuilAf/view?usp=sharing})
 
 
 ### Built With
@@ -63,5 +63,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/sufyan5050)
-- Twitter [@your-twitter](https://twitter.com/sufyankhalid55)
+- GitHub [@sufyan5050](https://github.com/sufyan5050)
+- Twitter [@sufyan55](https://twitter.com/sufyankhalid55)
